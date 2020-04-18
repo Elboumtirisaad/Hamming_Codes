@@ -64,4 +64,3 @@ The process of encoding and decoding boils down to a vector-matrix multiplicatio
 
 ### Reference 
 * https://en.wikipedia.org/wiki/Hamming(7,4)
-# Hamming_Codes
